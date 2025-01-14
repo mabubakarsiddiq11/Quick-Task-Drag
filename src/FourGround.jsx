@@ -23,6 +23,24 @@ function FourGround() {
       close: true,
       tag: { isOpen: true, tagTitle: "Repeat Now", tagColor: "blue" },
     },
+    {
+      desc: "The region has been inhabited for millennia,.",
+      fileSize: "14mb",
+      close: true,
+      tag: { isOpen: true, tagTitle: "Repeat Now", tagColor: "yellow" },
+    },
+    {
+      desc: "Karachi is now Pakistan's premier industrial and financial centre.",
+      fileSize: "14mb",
+      close: true,
+      tag: { isOpen: true, tagTitle: "Repeat Now", tagColor: "red" },
+    },
+    {
+      desc: "Modern Karachi was reputedly founded in 1729 as the settlement of Kolachi-jo-Goth during the rule of Kalhora dynasty..",
+      fileSize: "14mb",
+      close: false,
+      tag: { isOpen: false, tagTitle: "Repeat Now", tagColor: "skyblue" },
+    },
   ];
   return (
     <div
